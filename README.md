@@ -1,3 +1,7 @@
+## Source
+
+This website was built based on code from Gautam Rao, available [here](https://github.com/gautamrao/gautamrao.github.io). My adaptations to the code including adding invited presentations/media coverage for working papers, as well as to auto-expand the abstract of the first working paper (my JMP). If you'd prefer not to expand the first paper, it can be changed in themes/academimal/layouts/partials/publications.html, lines 8-12.
+
 ## How to Edit Each Section
 
 ### Sidebar
@@ -42,4 +46,3 @@ works:
 ```
 
 Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
-
