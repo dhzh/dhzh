@@ -1,0 +1,12 @@
+relativeURLs = true
+title = "David Hao Zhang"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+googleAnalytics = "UA-21281014-6"
+[params]
+    shortbio = "Assistant Professor of Finance, Rice University"
+    logo = "DavidZhang7.jpg"
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,10 @@
+works:
+- title: "How Do People Pay Rent?"
+  pdflink: "https://www.bostonfed.org/publications/research-data-report/2016/how-do-people-pay-rent.aspx"
+  book: "Federal Reserve Bank of Boston Research Data Report, September 2016"
+  presscoverage:
+    - url: "https://nypost.com/2018/06/13/paying-your-rent-by-check-is-becoming-a-thing-of-the-past/"
+      text: "New York Post"
+- title: "Interview: FTC's action against OpenDoor"
+  pdflink: "https://www.fox26houston.com/news/ftc-says-opendoor-must-pay-62-million-after-cheating-homesellers"
+  book: "FOX 26 Houston, August 2022"

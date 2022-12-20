@@ -1,0 +1,14 @@
+works:
+- title: "History-based versus uniform pricing in growing and declining markets"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0167718716300753"
+  book: "International Journal of Industrial Organization, September 2016"
+  coauthors: "Rune Stenbacka and Oz Shy"
+  abstract: >
+    We analyze the Markov Perfect Equilibria of an infinite-horizon overlapping generations model with consumer lock-in to compare the performance of history-based and uniform pricing in growing and declining markets. Under history-based pricing, firms charge higher prices to locked-in customers and lower prices to new customers. We show that a high exit rate of consumers (sufficiently declining market) constitutes a sufficient condition for history-based pricing to generate higher average prices than uniform pricing, thereby harming consumer welfare. In contrast, a high consumer entry rate (sufficiently growing market) ensures that history-based pricing intensifies competition compared with uniform pricing.
+
+- title: "Options Compensation as a Commitment Mechanism in Oligopoly Competition"
+  pdflink: "https://onlinelibrary.wiley.com/doi/abs/10.1002/mde.2797"
+  book: "Managerial and Decision Economics, April 2016"
+  coauthors: "Jun Ishii"
+  abstract: >
+    We analyze how CEO stock options compensation can be used as a commitment device in oligopolistic competition. We develop a two‐stage model where shareholders choose managerial compensation to commit their managers to being aggressive in equilibrium. Our results may explain why some shareholders appear to incentivize ‘excessive’ risk taking through stock options compensation. We analyze how our results are impacted by product quality, marginal cost, product differentiation, and industry concentration. As motivation for our research, we show that there exists positive empirical correlation between industry concentration and options compensation vega within a sample of firms, as suggested by our model. 

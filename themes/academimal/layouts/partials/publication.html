@@ -1,0 +1,29 @@
+<h3 style="margin:20px 0 5px;">{{ with .context.pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .context.title }}{{ with .context.pdflink }}</a>{{ end }}</h3>
+
+{{ with .context.coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
+
+{{ with .context.note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+{{ with .context.book }}<p style="margin:0 0 5px;"><em><b>{{ . }}</b></em></p>{{ end }}
+{{ $pid := .pid }}
+{{ if eq $pid 0}}
+{{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}" style="display:none;"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:inline;">: {{ . }}</span></p>{{ end }}
+{{ else }}
+{{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:none;">: {{ . }}</span></p>{{ end }}
+{{ end }}
+
+
+{{ with .context.links }}
+{{ range . }}
+<p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}
+{{ end }}
+{{ end }}
+
+{{ with .context.footnote }}<p style="margin:0 0 5px;">{{ . | markdownify }}</p>{{ end }}
+
+{{ with .context.presscoverage }}
+<p style="margin:5px 0px 5px 0px;"> Media coverage:
+{{ range $i, $e:=.}}{{if $i}}, {{ end }}<a href="{{ .url }}" target="blank">{{ $e.text}}</a>
+{{ end }}
+{{ end }}
+
+<p>&nbsp;</p>
