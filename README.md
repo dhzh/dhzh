@@ -2,6 +2,8 @@
 
 This website was built based on code from Gautam Rao, available [here](https://github.com/gautamrao/gautamrao.github.io). My adaptations to the code including adding invited presentations/media coverage for working papers, as well as to auto-expand the abstract of the first working paper (my JMP). If you'd prefer not to expand the first paper, it can be changed in themes/academimal/layouts/partials/publications.html, lines 8-12.
 
+The website is deployed using a Github Action, with instructions [here](https://gohugo.io/hosting-and-deployment/hosting-on-github/). It is hosted as a project site, described [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). 
+
 ## How to Edit Each Section
 
 ### Sidebar
