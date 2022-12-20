@@ -1,0 +1,62 @@
+David Hao Zhang
+PhD Candidate in Business Economics, Harvard University
+
+Bio
+Contact
+Working Papers
+Publications
+Other Writings
+ 
+Bio
+I am a PhD Candidate from Harvard’s Department of Economics and Harvard Business School.
+My current research focuses on inequality and inefficiency in housing finance. I am particularly interested in issues surrounding racial equity and social welfare in financial markets.
+My fields of specialization are Finance, Real Estate, Industrial Organization, and Econometrics.
+
+Contact
+Email: dzhang@hbs.edu
+
+Working Papers
+Do Lenders Still Discriminate? A Robust Approach for Assessing Differences in Menus
+(with Paul Willen)
+Current Version: January 2021
+Abstract (click to expand)
+Invited Presentations: 2020 System Applied Microeconomics Conference, the 2020 System Econometrics Conference*, the 2020 Econometric Society European Winter Meetings, 2021 Week After Conference on Financial Markets and Institutions*, 2021 Southwest Finance Association, 2021 Royal Economics Society, 2021 OSU PhD Real Estate Conference (**Best Paper Award**), 2021 Asian Meeting of the Econometric Society, 2021 IAAE Conference, 2021 Society of Labor Economists (SOLE), 2021 Financial Intermediation Research Society (FIRS)
+The Cost of Banking Deserts: Racial Disparities in Access to PPP Lenders and their Equilibrium Implications
+(with Jeffrey Wang)
+Current Version: December 2020
+Abstract (click to expand)
+Invited Presentations: 2021 SFS Cavalcade North America
+Mortgage Prepayment, Race, and Monetary Policy
+(with Kristopher Gerardi and Paul Willen)
+Current Version: December 2020
+Abstract (click to expand)
+Invited Presentations: 2020 Atlanta Fed/Princeton Bendheim Conference on Racial Justice and Finance*, 2021 Midwest Finance Association*, 2021 Southwest Finance Association*, 2021 Swiss Society for Financial Market Research (SGF), 2021 CFPB Research Conference
+Media coverage: WSJ , WHYY , Philadelphia Tribune 
+Do Judge-Lawyer Relationships Influence Case Outcomes?
+(with Tianwang Liu)
+Current Version: October 2020
+Abstract (click to expand)
+Semi-Parametric Estimation of Counterfactuals in Dynamic Discrete Choice Models
+Current Version: June 2018
+Abstract (click to expand)
+Invited Presentations: 2018 International Industrial Organization Conference
+
+Publications
+History-based versus uniform pricing in growing and declining markets
+(with Rune Stenbacka and Oz Shy)
+International Journal of Industrial Organization, September 2016
+Abstract (click to expand)
+Options Compensation as a Commitment Mechanism in Oligopoly Competition
+(with Jun Ishii)
+Managerial and Decision Economics, April 2016
+Abstract (click to expand)
+
+Other Writings
+How Do People Pay Rent?
+Federal Reserve Bank of Boston Research Data Report, September 2016
+Media coverage: New York Post 
+
+
+* Asterisks indicate presentation by a co-author.
+Website: This static website was built using Hugo based on code from Gautam Rao.
+
