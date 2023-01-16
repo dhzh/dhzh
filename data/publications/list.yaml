@@ -1,4 +1,18 @@
 works:
+- title: "Mortgage Prepayment, Race, and Monetary Policy"
+  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0304405X22002458"
+  book: "Journal of Financial Economics, March 2023"
+  coauthors: "Kristopher Gerardi and Paul Willen"
+  abstract: >
+    Over the period 2005 to 2015, Black borrowers paid more than 40 basis points higher mortgage interest rates than Non-Hispanic white borrowers. We show that the main reason is that Non-Hispanic white borrowers are much more likely to exploit periods of falling interest rates by refinancing their mortgages or moving. Black and Hispanic white borrowers face challenges refinancing because, on average, they have lower credit scores, equity and income. But even holding those factors constant, Blacks and Hispanic white borrowers refinance less suggesting that other social factors are at play. Because they are more likely to exploit lower interest rates, white borrowers benefit more from monetary expansions. Policies that reduce barriers to refinancing for minority borrowers and alternative mortgage contract designs can significantly reduce racial mortgage rate inequality.
+  presscoverage:
+    - url: "https://www.wsj.com/articles/fed-paper-finds-black-homeowners-paying-more-for-mortgages-11608580607"
+      text: "WSJ"
+    - url: "https://whyy.org/articles/black-homeowners-refinance-less-and-pay-more-for-mortgages-new-data-reveals/"
+      text: "WHYY"
+    - url: "https://www.phillytrib.com/news/local_news/black-homeowners-refinance-less-and-pay-more-for-mortgages-new-data-reveals/article_0ba777e6-d689-5f55-b939-3631dce2f5b5.html"
+      text: "Philadelphia Tribune"
+
 - title: "History-based versus uniform pricing in growing and declining markets"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0167718716300753"
   book: "International Journal of Industrial Organization, September 2016"
@@ -11,4 +25,4 @@ works:
   book: "Managerial and Decision Economics, April 2016"
   coauthors: "Jun Ishii"
   abstract: >
-    We analyze how CEO stock options compensation can be used as a commitment device in oligopolistic competition. We develop a two‐stage model where shareholders choose managerial compensation to commit their managers to being aggressive in equilibrium. Our results may explain why some shareholders appear to incentivize ‘excessive’ risk taking through stock options compensation. We analyze how our results are impacted by product quality, marginal cost, product differentiation, and industry concentration. As motivation for our research, we show that there exists positive empirical correlation between industry concentration and options compensation vega within a sample of firms, as suggested by our model. 
+    We analyze how CEO stock options compensation can be used as a commitment device in oligopolistic competition. We develop a two‐stage model where shareholders choose managerial compensation to commit their managers to being aggressive in equilibrium. Our results may explain why some shareholders appear to incentivize ‘excessive’ risk taking through stock options compensation. We analyze how our results are impacted by product quality, marginal cost, product differentiation, and industry concentration. As motivation for our research, we show that there exists positive empirical correlation between industry concentration and options compensation vega within a sample of firms, as suggested by our model.

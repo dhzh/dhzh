@@ -13,21 +13,6 @@ works:
         How should researchers test for differences in the menus of options that people face when given data on choices? In mortgage and labor contexts, we show how intuitively appealing regression-based approaches for assessing differences in menus can lead to misleading and contradictory results. To address this issue, we use pairwise dominance relationships in choices that can be supplemented by restrictions on the range of plausible menus to define (1) a test statistic for equality in menus and (2) a difference in menus (DIM) metric. We also derive a new procedure for inference on our class of problems. Finally, we apply our methodology to a novel data set linking 2018--2019 Home Mortgage Disclosure Act (HMDA) data to Optimal Blue rate locks. We find evidence for mortgage menu differences by race, particularly among Conforming mortgage borrowers who are relatively creditworthy.
   footnote: "Invited Presentations: 2020 System Econometrics Conference*, 2020 System Applied Microeconomics Conference, 2020 Econometric Society European Winter Meetings, 2021 Week After Conference on Financial Markets and Institutions*, 2021 Stanford Institute for Theoretical Economics (SITE), 2021 Financial Intermediation Research Society (FIRS), 2021 Society of Labor Economists (SOLE), 2021 IAAE Conference, 2021 Asian Meeting of the Econometric Society, 2021 OSU PhD Real Estate Conference (<b>Best Paper Award</b>), 2021 RES, 2021 SWFA, 2022 AREUEA National Conference, 2023 AREUEA/ASSA Conference."
 
-- title: "Mortgage Prepayment, Race, and Monetary Policy"
-  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/discriminationregressions.pdf"
-  book: "Forthcoming at Journal of Financial Economics"
-  coauthors: "Kristopher Gerardi and Paul Willen"
-  abstract: >
-    Over the period 2005 to 2015, Black borrowers paid more than 40 basis points higher mortgage interest rates than Non-Hispanic white borrowers. We show that the main reason is that Non-Hispanic white borrowers are much more likely to exploit periods of falling interest rates by refinancing their mortgages or moving. Black and Hispanic white borrowers face challenges refinancing because, on average, they have lower credit scores, equity and income. But even holding those factors constant, Blacks and Hispanic white borrowers refinance less suggesting that other social factors are at play. Because they are more likely to exploit lower interest rates, white borrowers benefit more from monetary expansions. Policies that reduce barriers to refinancing for minority borrowers and alternative mortgage contract designs can significantly reduce racial mortgage rate inequality.
-  footnote: "Invited Presentations: 2021 NBER Summer Institute Household Finance, 2021 NBER Summer Institute Monetary Policy*, 2021 CFPB Research Conference, 2021 Swiss Society for Financial Market Research (SGF), 2021 Southwest Finance Association*, 2021 Midwest Finance Association*, 2020 Atlanta Fed/Princeton Bendheim Conference on Racial Justice and Finance*"
-  presscoverage:
-    - url: "https://www.wsj.com/articles/fed-paper-finds-black-homeowners-paying-more-for-mortgages-11608580607"
-      text: "WSJ"
-    - url: "https://whyy.org/articles/black-homeowners-refinance-less-and-pay-more-for-mortgages-new-data-reveals/"
-      text: "WHYY"
-    - url: "https://www.phillytrib.com/news/local_news/black-homeowners-refinance-less-and-pay-more-for-mortgages-new-data-reveals/article_0ba777e6-d689-5f55-b939-3631dce2f5b5.html"
-      text: "Philadelphia Tribune"
-
 - title: "The Cost of Banking Deserts: Racial Disparities in Access to PPP Lenders and their Implications"
   pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/geographyppp.pdf"
   coauthors: "Jeffrey Wang"
