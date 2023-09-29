@@ -1,14 +1,14 @@
 works:
 
 - title: "Closing Costs, Refinancing, and Inefficiencies in the Mortgage Market (Job Market Paper)"
-  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/zhang_jmp.pdf"
+  pdflink: "/pdf/zhang_jmp.pdf"
   book: "Submitted"
   abstract: >
         I use a structural model to quantify the cross-subsidization in the US mortgage market due to heterogeneous borrower refinancing tendencies. In equilibrium, the presence of borrowers with high refinancing inertia reduces mortgage interest rates, particularly on lower upfront closing cost mortgages which have more valuable refinancing options. As a result, actively refinancing borrowers refinance excessively relative to a perfect information, no cross-subsidization benchmark, an effect that accounts for 36% of the rate and term refinances for 2013--2019 new purchase originations and generates deadweight losses due to administrative resource costs. Alternative contract designs can reduce transfers and increase total welfare.
   footnote: "Invited Presentations: 2022 NBER Summer Institute Real Estate, 2022 North American Summer Meeting of the Econometric Society, 2022 Asia Meeting of the Econometric Society, 2022 UEA Conference, 2022 Chicago Booth Household Finance Conference, 2022 CFPB Consumer Conference, 2023 AREUEA/ASSA Conference, 2023 UCLA/SF Fed Conference, Penn State University, 2023 Boulder Conference on Consumer Finance, 2023 Western Finance Association (WFA)."
 
 - title: "Testing for Discrimination in Menus"
-  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/mortgagediscrimination.pdf"
+  pdflink: "/pdf/mortgagediscrimination.pdf"
   coauthors: "Paul Willen"
   book: "Revise & Resubmit at the American Economic Review"
   abstract: >
@@ -16,14 +16,14 @@ works:
   footnote: "Invited Presentations: 2020 System Econometrics Conference*, 2020 System Applied Microeconomics Conference, 2020 Econometric Society European Winter Meetings, 2021 Week After Conference on Financial Markets and Institutions*, 2021 Stanford Institute for Theoretical Economics (SITE), 2021 Financial Intermediation Research Society (FIRS), 2021 Society of Labor Economists (SOLE), 2021 IAAE Conference, 2021 Asian Meeting of the Econometric Society, 2021 OSU PhD Real Estate Conference (<b>Best Paper Award</b>), 2021 RES, 2021 SWFA, 2022 AREUEA National Conference, 2023 AREUEA/ASSA Conference, Zillow, FHFA."
 
 - title: "The Cost of Banking Deserts: Racial Disparities in Access to PPP Lenders and their Implications"
-  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/geographyppp.pdf"
+  pdflink: "/pdf/geographyppp.pdf"
   coauthors: "Jeffrey Wang"
   abstract: >
     Many government support programs for small businesses are designed to pass through banks and credit unions. However, this poses barriers for minority communities that are less connected to financial institutions for obtaining this support. Using the latest program for supporting small businesses, the Paycheck Protection Program (PPP), as an example, we show that there was a large disparity in the density of PPP enrolled lenders by racial composition of the neighborhood. This difference is both due to a lower density of lenders in those neighborhoods in general, and by the fact that the banks and credit unions that do operate there are smaller, are less likely to have previous relationships with the Small Business Administration, and are less likely to enroll in the program. More heavily Black neighborhoods have significantly lower take-up of PPP loans particularly in lower population (more rural) areas where this disparity is most salient. Through an instrumental variables analysis, we show that the intensive margin of access to enrolled lenders can explain about 35% of the racial disparity in take up within the relevant areas. Our results suggest that government programs that provide "support through banks" can have undesirable distributional implications.
   footnote: "Invited Presentations: 2021 SFS Cavalcade North America"
 
 - title: "Do Judge-Lawyer Relationships Influence Case Outcomes?"
-  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/judges.pdf"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
   book: "Resubmitted to Journal of Legal Studies"
   coauthors: "Tianwang Liu"
   abstract: >
