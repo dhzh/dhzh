@@ -5,11 +5,7 @@
 {{ with .context.note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 {{ with .context.book }}<p style="margin:0 0 5px;"><em><b>{{ . }}</b></em></p>{{ end }}
 {{ $pid := .pid }}
-{{ if eq $pid 0}}
-{{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}" style="display:none;"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:inline;">: {{ . }}</span></p>{{ end }}
-{{ else }}
 {{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:none;">: {{ . }}</span></p>{{ end }}
-{{ end }}
 
 
 {{ with .context.links }}
