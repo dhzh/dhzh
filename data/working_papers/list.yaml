@@ -5,7 +5,7 @@ works:
   coauthors: "Janet Gao and Livia Yi"
   abstract: >
         With the fast advancement of lending technology and data availability, what is the role of human underwriting in augmentation of algorithmic underwriting systems? We study the effects of an FHA policy that relaxed the requirement for human underwriting for low-credit-score, high-leverage borrowers. Estimating the bunching of loans around the DTI threshold, we find that the policy change leads to a significant credit expansion to affected borrowers, represented by higher mortgage take-up and increased household leverage. Such effects are more pronounced among non-Hispanic White borrowers and higher-income borrowers. Consequently, low-credit-score households are more likely to move to better school districts. Despite the credit expansion, we find little change in default risks or interest rates among the affected group. A structural approach helps us quantify the welfare implications of the policy change and isolate the credit supply channel. Overall, our results suggest that the human underwriting mandate restricted credit supply without substantially reducing risks. However, a heavier reliance on machine underwriting can generate disparate impact across racial groups and along the income distribution.
-  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2023 AEA*"
+  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2023 AEA*."
 
 - title: "Closing Costs, Refinancing, and Inefficiencies in the Mortgage Market (Job Market Paper)"
   pdflink: "/pdf/zhang_jmp.pdf"
@@ -26,7 +26,7 @@ works:
   coauthors: "Jeffrey Wang"
   abstract: >
     Many government support programs for small businesses are designed to pass through banks and credit unions. However, this poses barriers for minority communities that are less connected to financial institutions for obtaining this support. Using the latest program for supporting small businesses, the Paycheck Protection Program (PPP), as an example, we show that there was a large disparity in the density of PPP enrolled lenders by racial composition of the neighborhood. This difference is both due to a lower density of lenders in those neighborhoods in general, and by the fact that the banks and credit unions that do operate there are smaller, are less likely to have previous relationships with the Small Business Administration, and are less likely to enroll in the program. More heavily Black neighborhoods have significantly lower take-up of PPP loans particularly in lower population (more rural) areas where this disparity is most salient. Through an instrumental variables analysis, we show that the intensive margin of access to enrolled lenders can explain about 35% of the racial disparity in take up within the relevant areas. Our results suggest that government programs that provide "support through banks" can have undesirable distributional implications.
-  footnote: "Invited Presentations: 2021 SFS Cavalcade North America"
+  footnote: "Invited Presentations: 2021 SFS Cavalcade North America."
 
 - title: "Do Judge-Lawyer Relationships Influence Case Outcomes?"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
