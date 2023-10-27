@@ -5,7 +5,7 @@ works:
   coauthors: "Janet Gao and Livia Yi"
   abstract: >
         With the fast advancement of lending technology and data availability, what is the role of human underwriting in augmentation of algorithmic underwriting systems? We study the effects of an FHA policy that relaxed the requirement for human underwriting for low-credit-score, high-leverage borrowers. Estimating the bunching of loans around the DTI threshold, we find that the policy change leads to a significant credit expansion to affected borrowers, represented by higher mortgage take-up and increased household leverage. Such effects are more pronounced among non-Hispanic White borrowers and higher-income borrowers. Consequently, low-credit-score households are more likely to move to better school districts. Despite the credit expansion, we find little change in default risks or interest rates among the affected group. A structural approach helps us quantify the welfare implications of the policy change and isolate the credit supply channel. Overall, our results suggest that the human underwriting mandate restricted credit supply without substantially reducing risks. However, a heavier reliance on machine underwriting can generate disparate impact across racial groups and along the income distribution.
-  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2023 AEA*."
+  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2024 AEA*."
 
 - title: "Closing Costs, Refinancing, and Inefficiencies in the Mortgage Market (Job Market Paper)"
   pdflink: "/pdf/zhang_jmp.pdf"
