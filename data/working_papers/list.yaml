@@ -11,7 +11,7 @@ works:
   coauthors: "Janet Gao and Livia Yi"
   abstract: >
         We study the effects of a policy that shifted from pure human underwriting to human-augmented algorithmic underwriting for low-credit-score, high-leverage mortgage borrowers. Estimating the bunching of loans around the policy's debt-to-income threshold, we find a large credit expansion to affected borrowers with little changes in default risks or interest rates among the affected group. Such effects are more pronounced among non-Hispanic White borrowers and higher-income borrowers. Consequently, low-credit-score households are more likely to move to better school districts. We use a structural approach to quantify the welfare implications of the policy change and isolate the credit supply channel. Overall, our results suggest that automated underwriting systems (AUS) can help increase financial inclusion while controlling risk. However, it can also generate disparate impact across racial groups and along the income distribution.
-  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2024 AEA*."
+  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, 2024 AEA*"
 
 - title: "Closing Costs, Refinancing, and Inefficiencies in the Mortgage Market (Job Market Paper)"
   pdflink: "/pdf/zhang_jmp.pdf"
@@ -36,7 +36,7 @@ works:
 
 - title: "Do Judge-Lawyer Relationships Influence Case Outcomes?"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
-  book: "Resubmitted to Journal of Legal Studies"
+  book: "Submitted"
   coauthors: "Tianwang Liu"
   abstract: >
     We examine whether law school alumni relationships between lawyers and judges affect case outcomes. We show that, in the context of medical malpractice lawsuits filed in Florida, having a plaintiff's attorney who attended the same law school as a randomly assigned judge increases the chances of recovery by 2%. We further show that the effect is more pronounced between lawyers and judges with a larger age gap, consistent with a mentorship hypothesis rather than a personal relationship effect from lawyers and judges who overlapped in school. Our results show that law school networks can influence case outcomes.
