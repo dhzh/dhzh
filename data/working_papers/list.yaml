@@ -1,17 +1,24 @@
 works:
 
+- title: "Mortgage Lock-in, Lifecycle Migration, and the Welfare Effects of Housing Market Liquidity"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682458"
+  coauthors: "Kristopher Gerardi and Franklin Qian"
+  abstract: >
+         We use a search and matching model to study the heterogeneous welfare effects of housing market illiquidity due to mortgage lock-in over the lifecycle. We find that younger home buyers are disproportionately affected by mortgage lock-in, which disrupts their typical pattern of moving to higher-quality neighborhoods. We estimate a model with heterogeneous seller-buyers bargaining within markets defined by CBSA-income terciles and with endogenous migration across markets. We find that on average mortgage lock-in reduces household listing probabilities by 21-23%, increases time on the market by 52-142%, increases house prices by 3%-8%, and decreases match surplus by 3%-29% through its effects on the search and matching process. The pricing and match surplus effects are larger for younger households and for households in lower-income areas, due to a higher idiosyncratic dispersion in buyer valuation leading to larger match surplus variation in those areas. Our study highlights the welfare benefits of market thickness in real estate markets.
+
 - title: "Small Mortgages and the Rise of FinTech and Shadow Banks"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682458"
   coauthors: "Yongqiang Chu and Tim Zhang"
   abstract: >
         The growth of FinTech and shadow banks could have unexpected spillover effects on bank lending. We study this possibility in the context of small mortgages, which are low balance mortgages disproportionately originated by brick-and-mortar banks and retained in their portfolios. Using a shift-share instrument after the introduction of Basel III, we find that areas more exposed to FinTech and shadow bank growth have significantly higher small mortgage denial rates despite similar application quality and local economic trends. We also find a corresponding reduction in small mortgage originations as well as lower owner occupancy shares among originated small mortgages. Further analyses suggest that reduced CRA requirements and shifts in bank business models as causal mechanisms. Overall, our results suggest that the rise of FinTech and shadow banks plays a key role in the declining availability of small mortgages, potentially contributing to lower homeownership rates among less affluent households.
+  footnote: "Invited Presentations: 2024 Mortgage Market Research Conference (poster session), 2024 AREUEA National Conference."
 
 - title: "Algorithmic Underwriting in High Risk Mortgage Markets"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602411"
   coauthors: "Janet Gao and Livia Yi"
   abstract: >
         We study the effects of a policy that shifted from pure human underwriting to human-augmented algorithmic underwriting for low-credit-score, high-leverage mortgage borrowers. Estimating the bunching of loans around the policy's debt-to-income threshold, we find a large credit expansion to affected borrowers with little changes in default risks or interest rates among the affected group. Such effects are more pronounced among non-Hispanic White borrowers and higher-income borrowers. Consequently, low-credit-score households are more likely to move to better school districts. We use a structural approach to quantify the welfare implications of the policy change and isolate the credit supply channel. Overall, our results suggest that automated underwriting systems (AUS) can help increase financial inclusion while controlling risk. However, it can also generate disparate impact across racial groups and along the income distribution.
-  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, Georgetown University Brownbag*, University of Colorado Boulder*, 2024 AEA*, University of Rochester, Boston College Brownbag*, 2024 UD/Philly Fed Fintech Financial Institutions Conference (<b>Best Paper Award</b>), 2024 University of Washington Fostering Inclusion Workshop*."
+  footnote: "Invited Presentations: 2023 Lone Star Finance Conference, University of Colorado Boulder*, 2024 AEA*, University of Rochester, 2024 UD/Philly Fed Fintech Financial Institutions Conference (<b>Best Paper Award</b>), 2024 Northeastern Finance Conference*, 2024 University of Washington Fostering Inclusion Workshop*, 2024 Cornell Economics Alumni Conference, 2024 AREUEA National Conference*, 2024 Mortgage Market Research Conference, 2024 MoFiR Workshop on Banking."
 
 - title: "Closing Costs, Refinancing, and Inefficiencies in the Mortgage Market (Job Market Paper)"
   pdflink: "/pdf/zhang_jmp.pdf"
