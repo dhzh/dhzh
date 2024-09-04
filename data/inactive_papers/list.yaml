@@ -1,0 +1,16 @@
+works:
+
+- title: "Do Judge-Lawyer Relationships Influence Case Outcomes?"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
+  coauthors: "Tianwang Liu"
+  abstract: >
+    We examine whether law school alumni relationships between lawyers and judges affect case outcomes. We show that, in the context of medical malpractice lawsuits filed in Florida, having a plaintiff's attorney who attended the same law school as a randomly assigned judge increases the chances of recovery by 2%. We further show that the effect is more pronounced between lawyers and judges with a larger age gap, consistent with a mentorship hypothesis rather than a personal relationship effect from lawyers and judges who overlapped in school. Our results show that law school networks can influence case outcomes.
+  presscoverage:
+    - url: "https://lsolum.typepad.com/legaltheory/2020/12/liu-zhang-on-the-influence-of-common-law-school-education-of-judges-lawyers-on-case-outcomes.html"
+      text: "Legal Theory Blog"
+
+- title: "Semi-Parametric Estimation of Counterfactuals in Dynamic Discrete Choice Models"
+  pdflink: "https://davidzhang.scholar.harvard.edu/files/dhz/files/semidynamics.pdf"
+  abstract: >
+      I develop a new method for estimating counterfactuals in dynamic discrete choice models, a widely used set of models in economics, without requiring a distributional assumption on utility shocks. Applying my method to the canonical Rust (1987) setting, I find that the typical logit assumption on utility shocks can lead the researcher to conclude that the agent's counterfactual choice probabilities are much more sensitive to policy changes than what a semi-parametric model would suggest. Therefore, my method may be useful to applied researchers in generating policy counterfactuals that are robust to such distributional assumptions.
+  footnote: "Invited Presentations: 2018 International Industrial Organization Conference"
