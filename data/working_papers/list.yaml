@@ -40,3 +40,12 @@ works:
   abstract: >
     Many government support programs for small businesses are designed to pass through banks and credit unions. However, this poses barriers for minority communities that are less connected to financial institutions for obtaining this support. Using the latest program for supporting small businesses, the Paycheck Protection Program (PPP), as an example, we show that there was a large disparity in the density of PPP enrolled lenders by racial composition of the neighborhood. This difference is both due to a lower density of lenders in those neighborhoods in general, and by the fact that the banks and credit unions that do operate there are smaller, are less likely to have previous relationships with the Small Business Administration, and are less likely to enroll in the program. More heavily Black neighborhoods have significantly lower take-up of PPP loans particularly in lower population (more rural) areas where this disparity is most salient. Through an instrumental variables analysis, we show that the intensive margin of access to enrolled lenders can explain about 35% of the racial disparity in take up within the relevant areas. Our results suggest that government programs that provide "support through banks" can have undesirable distributional implications.
   footnote: "Invited Presentations: 2021 SFS Cavalcade North America."
+
+- title: "Do Judge-Lawyer Relationships Influence Case Outcomes?"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
+  coauthors: "Tianwang Liu"
+  abstract: >
+    We examine whether law school alumni relationships between lawyers and judges affect case outcomes. We show that, in the context of medical malpractice lawsuits filed in Florida, having a plaintiff's attorney who attended the same law school as a randomly assigned judge increases the chances of recovery by 2%. We further show that the effect is more pronounced between lawyers and judges with a larger age gap, consistent with a mentorship hypothesis rather than a personal relationship effect from lawyers and judges who overlapped in school. Our results show that law school networks can influence case outcomes.
+  presscoverage:
+    - url: "https://lsolum.typepad.com/legaltheory/2020/12/liu-zhang-on-the-influence-of-common-law-school-education-of-judges-lawyers-on-case-outcomes.html"
+      text: "Legal Theory Blog"
