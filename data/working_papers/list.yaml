@@ -49,3 +49,9 @@ works:
   presscoverage:
     - url: "https://lsolum.typepad.com/legaltheory/2020/12/liu-zhang-on-the-influence-of-common-law-school-education-of-judges-lawyers-on-case-outcomes.html"
       text: "Legal Theory Blog"
+
+- title: "Semi-Parametric Estimation of Counterfactuals in Dynamic Discrete Choice Models"
+  pdflink: "/pdf/ddc.pdf"
+  abstract: >
+      I develop a new method for estimating counterfactuals in dynamic discrete choice models, a widely used set of models in economics, without requiring a distributional assumption on utility shocks. Applying my method to the canonical Rust (1987) setting, I find that the typical logit assumption on utility shocks can lead the researcher to conclude that the agent's counterfactual choice probabilities are much more sensitive to policy changes than what a semi-parametric model would suggest. Therefore, my method may be useful to applied researchers in generating policy counterfactuals that are robust to such distributional assumptions.
+  footnote: "Invited Presentations: 2018 International Industrial Organization Conference"
