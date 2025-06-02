@@ -1,11 +1,20 @@
 works:
 
+- title: "Measuring the Impact of the NAR Settlement"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279352"
+  coauthors: "Jefferson Duarte"
+  abstract: >
+         We empirically examine the effects of the 2024 National Association of Realtors (NAR) settlement on the market for real estate intermediation and document four main findings. First, following the settlement, buyers became two percentage points more likely to forgo formal representation, an effect concentrated in states without prior Buyer's Representation Agreement (BRA) requirements. Second, commission rates show no significant change. Third, the market share of FinTech and discount brokerages remains low. Fourth, transactions increasingly involve seller and buyer agents with higher past volumes and greater experience. Overall, the NAR settlement had only a modest impact on the $180 billion annual volume of real estate commissions.
+
 - title: "The Home Purchase Effects of GSE Redistribution: Evidence from Difference-in-Discontinuity Estimates"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222560"
   coauthors: "You Suk Kim and Feng Liu"
   abstract: >
          The guarantee fee (g-fee) pricing of government-sponsored enterprises (GSEs) plays an important role in redistributing credit. We study the distributional effects of g-fee pricing on home purchases across borrower credit score and income distributions. Using a difference-in-discontinuities design based on recent g-fee adjustments, we find that, within low credit score groups, elasticities are larger for higher-income borrowers, suggesting that GSE redistribution benefits them more. Within high credit score groups, lower-income borrowers reduce their home purchases in response to a rise in g-fees, whereas higher income borrowers avoid the impact of g-fees by accessing non-agency loans. We develop a structural model, fit to the reduced-form elasticities, to analyze counterfactual g-fee policies. We find that the GSEs' redistribution toward lower credit score borrowers is regressive in the income dimension, in line with our reduced-form findings. Furthermore, we find that recent g-fee adjustments did not increase home buying among lower income borrowers. These results highlight the central role of heterogeneity in household elasticities when evaluating GSE reform efforts.
   footnote: "Invited Presentations: National University of Singapore, Federal Reserve Bank of Philadelphia, 2025 GT–FRBA Household Finance Conference, 2025 Interagency Risk Quantification Forum, 2025 Consumer Finance Round Robin, 2025 Texas Finance Festival, 2025 AREUEA National Conference, 2025 NBER Summer Institute Real Estate."
+  presscoverage:
+    - url: "https://www.insidemortgagefinance.com/articles/234272-do-the-gses-cross-subsidies-work-as-intended?v=preview"
+      text: "Inside Mortgage Finance"
 
 - title: "Mortgage Lock-in, Lifecycle Migration, and the Welfare Effects of Housing Market Liquidity"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933879"
