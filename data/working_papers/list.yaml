@@ -2,7 +2,7 @@ works:
 
 - title: "Is There a Puzzle in Underwater Mortgage Default?"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5509253"
-  coauthors: "Lara Loewenstein and Paul Willen and Yuxi Yao"
+  coauthors: "Lara Loewenstein, Paul Willen and Yuxi Yao"
   abstract: >
          A recurring question in the mortgage default literature is why underwater default is rare relative to model predictions. We find that one answer is miscalibration of flow payoffs. We build a novel, detailed quantitative model of mortgage default and find that realistic rent dynamics plus mild levels of default costs are sufficient to eliminate negative-equity strategic default. We present further empirical results supporting our model’s focus on flow payoffs. Our model addresses the underwater mortgage default puzzle, offers more realistic interpretations of policy consequences, and reinforces the theoretical effectiveness of cash-flow-based interventions.
   footnote: "Invited Presentations: CFPB, Iowa (Tippie), PUC-Chile, Federal Reserve Banks of Atlanta, 4th CEMLA / Dallas Fed Financial Stability Workshop."
@@ -17,6 +17,7 @@ works:
       text: "Wall Street Journal"
     - url: "https://ace.rismedia.com/2025/10/01/analysis-full-decoupling-would-cut-commissions-in-half/"
       text: "RIS Media"
+  footnote: "Invited Presentations: Baylor University (Econ)."
 
 - title: "The Distributional Effects of GSE Pricing on Home Purchases"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222560"
