@@ -15,7 +15,10 @@
 <p class="contactinfo"><a href="{{ "#conference_discussions" | relURL }}">Conference Discussions</a></p>
 {{ end }}
 {{ with .Site.Data.other_writings }}
-<p class="contactinfo"><a href="{{ "#other_writings" | relURL }}">Other Writings/Media</a></p>
+<p class="contactinfo"><a href="{{ "#other_writings" | relURL }}">Other Writings</a></p>
+{{ end }}
+{{ with .Site.Data.media }}
+<p class="contactinfo"><a href="{{ "#media" | relURL }}">Media</a></p>
 {{ end }}
 {{ with .GetPage "/sections/from-another-life.md" }}
 <p class="contactinfo"><a href="{{ "#fromanotherlife" | relURL }}">From Another Life</a></p>
