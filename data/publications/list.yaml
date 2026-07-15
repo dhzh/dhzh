@@ -6,6 +6,13 @@ works:
   abstract: >
         We study the effects of a policy that increased lenders’ reliance on algorithmic underwriting for low-credit-score, high-leverage mortgages. The policy led to a substantial credit expansion with little change in default risk among approved borrowers, suggesting that algorithms perform effective credit screening. The effectiveness of algorithmic underwriting arises from alleviated regulatory concerns by lenders, reduced information frictions in financial intermediation, and a greater reliance on standardized data. The policy also enabled low-credit-score borrowers to move to higher-quality neighborhoods. However, the credit expansion was weaker for Black and lower-income borrowers, which highlights algorithms' limitation in promoting financial inclusion for disadvantaged populations.
 
+- title: "Alumni Relationships and Judicial Bias"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711873"
+  coauthors: "Tianwang Liu"
+  book: "Economic Inquiry, Forthcoming"
+  abstract: >
+    We examine whether law school alumni relationships between lawyers and judges are correlated with case outcomes. We show that, in the context of medical malpractice lawsuits filed in Florida, having a plaintiff’s attorney who attended the same law school as a randomly assigned judge increases the chances of recovery by about 2 percentage points. We further show that the effect is more pronounced between lawyers and judges with a larger age gap, consistent with an age-dependent effect. Our results suggest that case outcomes can be biased when lawyers and judges are part of the same affinity group.
+
 - title: "Mortgage Prepayment, Race, and Monetary Policy"
   pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S0304405X22002458"
   book: "Journal of Financial Economics, March 2023"
