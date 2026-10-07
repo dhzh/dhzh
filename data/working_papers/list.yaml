@@ -19,6 +19,7 @@ works:
 - title: "Measuring the Impact of the NAR Settlement"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279352"
   coauthors: "Jefferson Duarte"
+  book: "Invited for Dual Submission to the Journal of Financial Economics at the FRA Conference"
   abstract: >
          We empirically examine the effects of the 2024 National Association of Realtors (NAR) settlement on the market for real estate intermediation and document four main findings. First, following the settlement, buyers became two percentage points more likely to forgo formal representation, an effect concentrated in states without prior Buyer's Representation Agreement (BRA) requirements. Second, commission rates show no significant change. Third, the market share of FinTech and discount brokerages remains low. Fourth, transactions increasingly involve seller and buyer agents with higher past volumes and greater experience. Overall, the NAR settlement had only a modest impact on the $180 billion annual volume of real estate commissions.
   presscoverage:
@@ -27,6 +28,13 @@ works:
     - url: "https://ace.rismedia.com/2025/10/01/analysis-full-decoupling-would-cut-commissions-in-half/"
       text: "RIS Media"
   footnote: "Invited Presentations: Baylor University (Econ), HKU, 2026 MFA, 2026 Boulder Summer Conference on Consumer Financial Decision Making."
+
+- title: "The Private Option: Trade Shocks and Hospital Reliance on Private Healthcare Insurance"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7567578"
+  coauthors: "Cyrus Aghamolla and Ly Nguyen"
+  abstract: >
+         We investigate the impact of trade liberalization on hospital operations, quality, and community access to healthcare. Consistent with the decline in manufacturing employment following trade shocks---and thus a loss of employer-sponsored health insurance among residents in affected communities---we document a reduction in the intake of privately-insured patients at local hospitals. This decline in privately-insured admissions, which typically provide the highest reimbursement rates for hospital services, has a substantial negative impact on hospital finances. Moreover, hospitals in manufacturing-dependent areas are more likely to close or merge with other hospitals and experience a significant decline in quality of care. At the same time, we observe a rise in healthcare insurance premiums in affected areas, indicating that local hospitals raise prices for patient services to improve their financial situations. The effects are more pronounced for hospitals that relied more on private insurance reimbursements and in areas experiencing greater outmigration and firm closure following trade liberalization. Our findings highlight an overlooked effect of trade liberalization---community access to healthcare---and illustrate the extent to which the healthcare system relies on reimbursements from private insurance. 
+
 
 - title: "The Elasticity of Home Purchases to Financing Costs: Evidence from Recent GSE Pricing Changes"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222560"
