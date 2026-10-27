@@ -14,6 +14,10 @@ Sidebar is controlled by the file `config.toml`.
 - `shortbio` is the text displayed right under the title.
 - `logo` is the filename of the picture. The file is placed in `content/`. For example, if `logo = "gr.jpg"` then the picture should be placed at `content/gr.jpg` (as it is now).
 
+### Google Analytics
+
+Tracking is controlled by the `[services.googleAnalytics]` block in `config.toml`. Set `id` to your Google Analytics 4 measurement ID (it looks like `G-XXXXXXXXXX`; find it under Admin > Data streams in Google Analytics). Hugo then inserts the gtag.js snippet into every page via `{{ partial "google_analytics.html" . }}` in `themes/academimal/layouts/partials/header.html`. Old Universal Analytics IDs (`UA-...`) no longer work and are ignored.
+
 ### Bio, Contact, From Another Life, and Personal
 
 Those four sections are controlled by `content/sections/{aboutme.md, contact.md, from-another-life.md, personal.md}`. The files are formatted using "Markdown" (`.md`), a lightweight markup language. A quick guide is available [here](https://guides.github.com/features/mastering-markdown/). To modify those sections, simply edit the corresponding Markdown file.
